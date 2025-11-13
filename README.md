@@ -1,12 +1,12 @@
-# Richards González, PhD. candidate 👋  
+# Richards González, PhD in Physics 👋  
 
-PhD student in Experimental Particle Physics at The University of Edinburgh. Passionate about building impactful solutions and continuously learning new technologies.  
+PhD in Experimental Particle Physics from The University of Edinburgh. Passionate about building data-driven solutions and continuously learning new technologies.  
 
 ## More about me 
-- 🔭 **Currently working on**: Searching for new elementary particles in proton-proton collisions at the Large Hadron Collider (LHC) as part of the ATLAS Collaboration
-- 🌱 **Learning**: Optimisation algorithms, ML applications
-- 💡 **Interests**: Research-based problem solving in industry applications within the UK
-- 📫 **Reach me at**: rygonzalez2@gmail.com
+- 🔭 **Currently working as**: Research Data Scientist @ CERN
+- 🌱 **Learning**: Integration of GenAI & Agentic AI in business solutions
+- 💡 **Interests**: All things Data Science!
+- 📫 **Reach me at**: richards.gzan@gmail.com
 
 <!---
 ## Featured Projects  
@@ -19,7 +19,7 @@ Here are some projects I'm proud of. Check out my repositories for more!
 --->
 
 ## Skills & Tools 
-- **Programming Languages**: Python, C++
+- **Programming Languages**: Python, SQL, C++
 - **Python libraries**: NumPy, SciPy, TensorFlow, Keras, PyTorch, XGBoost, Pandas, Matplotlib
 - **Tools/Platforms**: GitHub, GitLab
 
