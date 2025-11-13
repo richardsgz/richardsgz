@@ -24,7 +24,7 @@ Here are some projects I'm proud of. Check out my repositories for more!
 - **Tools/Platforms**: GitHub, GitLab
 
 ## GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=richardsgz&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardsgz&layout=compact&theme=radical)  
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/richardsgzan/)
